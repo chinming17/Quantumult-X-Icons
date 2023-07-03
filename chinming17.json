@@ -1,0 +1,27 @@
+{
+    "name": "Quantumult-X-Icons",
+    "description": "By chinming17",
+    "time": "2022-08-16",
+    "icons": [
+        {
+            "name": "DataExchange",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/DataExchange.png"
+        },
+        {
+            "name": "LocationA",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/LocationA.png"
+        },
+        {
+            "name": "Newspaper",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/Newspaper.png"
+        },
+        {
+            "name": "PlanetEarth",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/PlanetEarth.png"
+        },
+        {
+            "name": "WikipediaB",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/WikipediaB.png"          
+        }
+    ]
+}

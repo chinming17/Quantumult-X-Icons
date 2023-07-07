@@ -21,7 +21,11 @@
         },
         {
             "name": "WikipediaF",
-            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/WikipediaF.png"          
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/WikipediaF.png"
+        },
+        {
+            "name": "Proxy",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/Proxy.png"                 
         }
     ]
 }

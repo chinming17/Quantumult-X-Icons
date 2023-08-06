@@ -26,6 +26,19 @@
         {
             "name": "Proxy",
             "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/Proxy.png"                 
-        }
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/Emby.png"                 
+        },
+        {
+            "name": "AppleTV",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/AppleTV.png"                 
+        },
+        {
+            "name": "18Plus",
+            "url": "https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Icons/18Plus.png"                 
+        },
+        {
     ]
 }

@@ -1,0 +1,11 @@
+﻿{
+    "name":"UI 腳本合集",
+    "description":"UI-Interaction Script Gallery by Shawn",
+    "task":[
+        "event-interaction https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Scripts/Streaming-UI-Check.js, tag=串流媒體解鎖查詢, img-url=checkmark.seal.system, enabled=true",
+        "event-interaction https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Scripts/Geo_Location.js, tag=GeoIP查詢, img-url=location.fill.viewfinder.system",
+        "event-interaction https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Scripts/Switch-Check-Google.js, tag=Google送中查詢, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google.png, enabled=true",
+        "event-interaction https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Scripts/Traffic-Check.js, tag=策略流量查詢, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Download.png, enabled=true",
+        "event-interaction https://raw.githubusercontent.com/chinming17/Quantumult-X-Icons/main/Scripts/Server-Info.js, tag=節點資訊, img-url=info.bubble.system.system"
+    ]
+}
